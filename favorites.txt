@@ -1,3 +1,13 @@
+==============
+FAVORITE FOODS
+==============
 Tacos
 Pizza
 Chicken
+
+===============
+FAVORITE MOVIES
+===============
+Lion King
+Night at the Roxburry
+Life
